@@ -1,4 +1,4 @@
-# Build Project Using Maven1
+# Build Project Using Maven12
 
 Maven is java based build tool to generate executable 
 
